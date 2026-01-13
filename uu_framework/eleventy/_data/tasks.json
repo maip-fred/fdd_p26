@@ -1,5 +1,54 @@
 {
-  "homework": [],
+  "homework": [
+    {
+      "id": "A.1.1",
+      "title": "Crear cuentas: LLMs y DataCamp",
+      "due": "2026-01-15",
+      "points": "0",
+      "chapter": "Stack",
+      "file": "a_stack/01_introduction/01_cuentas.md",
+      "url": "/a_stack/01_introduction/01_cuentas/",
+      "summary": "Crea cuentas en las plataformas de LLM (Gemini, ChatGPT, Claude, etc.) y únete al grupo de DataCamp ",
+      "overdue": false,
+      "type": "homework"
+    },
+    {
+      "id": "A.2.1",
+      "title": "leer  A.2 LLMs & Curso: AI Assisted Coding for Developers",
+      "due": "2026-01-15",
+      "points": "20",
+      "chapter": "Stack",
+      "file": "a_stack/02_llms/01_conceptos_llm.md",
+      "url": "/a_stack/02_llms/01_conceptos_llm/",
+      "summary": "Leer toda la seccion A.2 LLMs, y despues completar el curso.  \nCompleta el curso [AI Assisted Coding",
+      "overdue": false,
+      "type": "homework"
+    },
+    {
+      "id": "A.3.1",
+      "title": "Leer seccion A.3 OS Setup & Instalación de Unix ",
+      "due": "2026-01-20",
+      "points": "0",
+      "chapter": "Stack",
+      "file": "a_stack/03_os_setup/01_wsl_install.md",
+      "url": "/a_stack/03_os_setup/01_wsl_install/",
+      "summary": "Leer seccion A.3 completa.  s\nInstala WSL2 en tu computadora Windows siguiendo esta guía. Verifica q",
+      "overdue": false,
+      "type": "homework"
+    },
+    {
+      "id": "A.3.2",
+      "title": "Crear cuenta de GitHub y solicitar Student Pack",
+      "due": "2026-01-20",
+      "points": "0",
+      "chapter": "Stack",
+      "file": "a_stack/03_os_setup/02_browser_env.md",
+      "url": "/a_stack/03_os_setup/02_browser_env/",
+      "summary": "Crea tu cuenta de GitHub y solicita el GitHub Student Developer Pack siguiendo esta guía. Esto es re",
+      "overdue": false,
+      "type": "homework"
+    }
+  ],
   "exams": [],
   "projects": []
 }

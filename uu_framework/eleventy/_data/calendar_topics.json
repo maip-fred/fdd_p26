@@ -1,20 +1,14 @@
 [
   {
     "clase": "1",
-    "date": "2026-01-12",
+    "date": "2026-01-13",
     "topic": "Introducción e Historia",
     "is_holiday": false
   },
   {
     "clase": "2",
-    "date": "2026-01-14",
+    "date": "2026-01-15",
     "topic": "Tema pendiente",
     "is_holiday": false
-  },
-  {
-    "clase": "asueto",
-    "date": "2026-01-16",
-    "topic": "asueto",
-    "is_holiday": true
   }
 ]

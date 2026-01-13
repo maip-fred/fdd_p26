@@ -14,9 +14,163 @@
         0,
         ""
       ],
-      "children": [],
+      "children": [
+        {
+          "name": "01_introduccion.md",
+          "path": "01_introduccion/01_introduccion.md",
+          "type": "file",
+          "title": "Presentación Introducción",
+          "order": [
+            0,
+            1,
+            0,
+            ""
+          ],
+          "summary": null
+        }
+      ],
       "has_index": true,
       "title": "Introducción"
+    },
+    {
+      "name": "02_pipeline_de_datos",
+      "path": "02_pipeline_de_datos",
+      "type": "directory",
+      "order": [
+        0,
+        2,
+        0,
+        ""
+      ],
+      "children": [
+        {
+          "name": "01_pipeline_de_datos.md",
+          "path": "02_pipeline_de_datos/01_pipeline_de_datos.md",
+          "type": "file",
+          "title": "Pipeline de Datos",
+          "order": [
+            0,
+            1,
+            0,
+            ""
+          ],
+          "summary": null
+        }
+      ],
+      "has_index": false,
+      "title": "Pipeline De Datos"
+    },
+    {
+      "name": "a_stack",
+      "path": "a_stack",
+      "type": "directory",
+      "order": [
+        1,
+        65,
+        0,
+        ""
+      ],
+      "children": [
+        {
+          "name": "01_introduction",
+          "path": "a_stack/01_introduction",
+          "type": "directory",
+          "order": [
+            0,
+            1,
+            0,
+            ""
+          ],
+          "children": [
+            {
+              "name": "01_cuentas.md",
+              "path": "a_stack/01_introduction/01_cuentas.md",
+              "type": "file",
+              "title": "Configuración de Cuentas",
+              "order": [
+                0,
+                1,
+                0,
+                ""
+              ],
+              "summary": null
+            }
+          ],
+          "has_index": true,
+          "title": "Módulo 1: Introducción"
+        },
+        {
+          "name": "02_llms",
+          "path": "a_stack/02_llms",
+          "type": "directory",
+          "order": [
+            0,
+            2,
+            0,
+            ""
+          ],
+          "children": [
+            {
+              "name": "01_conceptos_llm.md",
+              "path": "a_stack/02_llms/01_conceptos_llm.md",
+              "type": "file",
+              "title": "Large Language Models (LLMs)",
+              "order": [
+                0,
+                1,
+                0,
+                ""
+              ],
+              "summary": null
+            }
+          ],
+          "has_index": true,
+          "title": "Módulo 2: Large Language Models (LLMs)"
+        },
+        {
+          "name": "03_os_setup",
+          "path": "a_stack/03_os_setup",
+          "type": "directory",
+          "order": [
+            0,
+            3,
+            0,
+            ""
+          ],
+          "children": [
+            {
+              "name": "01_wsl_install.md",
+              "path": "a_stack/03_os_setup/01_wsl_install.md",
+              "type": "file",
+              "title": "Guía de Sistema Operativo: WSL2 y Linux",
+              "order": [
+                0,
+                1,
+                0,
+                ""
+              ],
+              "summary": null
+            },
+            {
+              "name": "02_browser_env.md",
+              "path": "a_stack/03_os_setup/02_browser_env.md",
+              "type": "file",
+              "title": "Guía para Estudiantes: Usar GitHub Codespaces y Ona (antes Gitpod) Solo con el Navegador",
+              "order": [
+                0,
+                2,
+                0,
+                ""
+              ],
+              "summary": null
+            }
+          ],
+          "has_index": true,
+          "title": "Módulo 3: Configuración del Sistema Operativo"
+        }
+      ],
+      "has_index": false,
+      "title": "Stack"
     },
     {
       "name": "docs",

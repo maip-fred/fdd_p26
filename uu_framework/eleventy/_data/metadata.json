@@ -11,6 +11,30 @@
     "components": [],
     "has_frontmatter": true
   },
+  "02_pipeline_de_datos/01_pipeline_de_datos.md": {
+    "path": "clase/02_pipeline_de_datos/01_pipeline_de_datos.md",
+    "title": "Pipeline de Datos",
+    "type": "lesson",
+    "order": 1,
+    "date": null,
+    "summary": null,
+    "tags": [],
+    "due_date": null,
+    "components": [],
+    "has_frontmatter": true
+  },
+  "01_introduccion/01_introduccion.md": {
+    "path": "clase/01_introduccion/01_introduccion.md",
+    "title": "Presentación Introducción",
+    "type": "lesson",
+    "order": 1,
+    "date": null,
+    "summary": null,
+    "tags": [],
+    "due_date": null,
+    "components": [],
+    "has_frontmatter": true
+  },
   "01_introduccion/00_index.md": {
     "path": "clase/01_introduccion/00_index.md",
     "title": "Introducción",
@@ -22,5 +46,133 @@
     "due_date": null,
     "components": [],
     "has_frontmatter": true
+  },
+  "a_stack/01_introduction/01_cuentas.md": {
+    "path": "clase/a_stack/01_introduction/01_cuentas.md",
+    "title": "Configuración de Cuentas",
+    "type": "lesson",
+    "order": 1,
+    "date": null,
+    "summary": null,
+    "tags": [],
+    "due_date": null,
+    "components": [
+      {
+        "type": "homework",
+        "attrs": {
+          "id": "A.1.1",
+          "title": "Crear cuentas: LLMs y DataCamp",
+          "due": "2026-01-15",
+          "points": "0"
+        },
+        "content_preview": "Crea cuentas en las plataformas de LLM (Gemini, ChatGPT, Claude, etc.) y únete al grupo de DataCamp con tu correo @itam.mx."
+      }
+    ],
+    "has_frontmatter": false
+  },
+  "a_stack/01_introduction/00_index.md": {
+    "path": "clase/a_stack/01_introduction/00_index.md",
+    "title": "Módulo 1: Introducción",
+    "type": "lesson",
+    "order": 0,
+    "date": null,
+    "summary": null,
+    "tags": [],
+    "due_date": null,
+    "components": [],
+    "has_frontmatter": false
+  },
+  "a_stack/03_os_setup/01_wsl_install.md": {
+    "path": "clase/a_stack/03_os_setup/01_wsl_install.md",
+    "title": "Guía de Sistema Operativo: WSL2 y Linux",
+    "type": "lesson",
+    "order": 1,
+    "date": null,
+    "summary": null,
+    "tags": [],
+    "due_date": null,
+    "components": [
+      {
+        "type": "homework",
+        "attrs": {
+          "id": "A.3.1",
+          "title": "Leer seccion A.3 OS Setup & Instalación de Unix ",
+          "due": "2026-01-20",
+          "points": "0"
+        },
+        "content_preview": "Leer seccion A.3 completa.  s\nInstala WSL2 en tu computadora Windows siguiendo esta guía. Verifica que funciona ejecutando  `python3 --version` o `python --version` en la terminal de Ubuntu. Si tienes"
+      }
+    ],
+    "has_frontmatter": false
+  },
+  "a_stack/03_os_setup/02_browser_env.md": {
+    "path": "clase/a_stack/03_os_setup/02_browser_env.md",
+    "title": "Guía para Estudiantes: Usar GitHub Codespaces y Ona (antes Gitpod) Solo con el Navegador",
+    "type": "lesson",
+    "order": 2,
+    "date": null,
+    "summary": null,
+    "tags": [],
+    "due_date": null,
+    "components": [
+      {
+        "type": "homework",
+        "attrs": {
+          "id": "A.3.2",
+          "title": "Crear cuenta de GitHub y solicitar Student Pack",
+          "due": "2026-01-20",
+          "points": "0"
+        },
+        "content_preview": "Crea tu cuenta de GitHub y solicita el GitHub Student Developer Pack siguiendo esta guía. Esto es requisito para las siguientes secciones del curso."
+      }
+    ],
+    "has_frontmatter": false
+  },
+  "a_stack/03_os_setup/00_index.md": {
+    "path": "clase/a_stack/03_os_setup/00_index.md",
+    "title": "Módulo 3: Configuración del Sistema Operativo",
+    "type": "lesson",
+    "order": 0,
+    "date": null,
+    "summary": null,
+    "tags": [],
+    "due_date": null,
+    "components": [],
+    "has_frontmatter": false
+  },
+  "a_stack/02_llms/01_conceptos_llm.md": {
+    "path": "clase/a_stack/02_llms/01_conceptos_llm.md",
+    "title": "Large Language Models (LLMs)",
+    "type": "lesson",
+    "order": 1,
+    "date": null,
+    "summary": null,
+    "tags": [],
+    "due_date": null,
+    "components": [
+      {
+        "type": "homework",
+        "attrs": {
+          "id": "A.2.1",
+          "title": "leer  A.2 LLMs & Curso: AI Assisted Coding for Developers",
+          "due": "2026-01-15",
+          "points": "20"
+        },
+        "content_preview": "Leer toda la seccion A.2 LLMs, y despues completar el curso.  \nCompleta el curso [AI Assisted Coding for Developers](https://app.datacamp.com/learn/courses/ai-assisted-coding-for-developers). La evide"
+      }
+    ],
+    "has_frontmatter": false
+  },
+  "a_stack/02_llms/00_index.md": {
+    "path": "clase/a_stack/02_llms/00_index.md",
+    "title": "Módulo 2: Large Language Models (LLMs)",
+    "type": "lesson",
+    "order": 0,
+    "date": null,
+    "summary": null,
+    "tags": [],
+    "due_date": null,
+    "components": [],
+    "has_frontmatter": false
   }
 }
